@@ -1,6 +1,8 @@
 ---
 name: daily-se
 description: Daily software-engineering architecture refresher with a front-end specialisation (≈75% FE, 25% BE). Randomly selects an architecture topic and sub-concept and generates a focused 5–10 minute Q&A, design-scenario, or spot-the-decision drill, structured around the RADIO framework. Use when the user types /daily-se, asks for a daily architecture/front-end refresher, a daily SE drill, or wants to rehearse front-end architecture and core full-stack concepts.
+metadata:
+  version: "1.0"
 ---
 
 # Daily SE Drill — Front-End Architecture

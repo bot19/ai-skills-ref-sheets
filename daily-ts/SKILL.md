@@ -1,6 +1,8 @@
 ---
 name: daily-ts
 description: Daily TypeScript practice drill. Randomly selects a TS topic or sub-concept from a curated foundations-to-mastery list (plus tooling) and generates a focused 5–10 minute coding exercise or Q&A. Use when the user types /daily-ts, asks for a daily TS drill, TypeScript practice, or a TS exercise to complete today.
+metadata:
+  version: "1.0"
 ---
 
 # Daily TS Drill
